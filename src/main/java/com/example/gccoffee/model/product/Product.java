@@ -1,4 +1,4 @@
-package com.example.gccoffee.model;
+package com.example.gccoffee.model.product;
 
 import java.time.LocalDateTime;
 import lombok.AllArgsConstructor;
